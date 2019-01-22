@@ -10,4 +10,4 @@ https://buataplikasihp.blogspot.com
 @Apk-Instan
 @Web-Viewer
 #Kontak Website
-https://github.com/BuatApkOlshop/kontak-Website/compare/master...BlbliOlshop:master
+https://github.com/BuatApkOlshop/kontak-Website/
